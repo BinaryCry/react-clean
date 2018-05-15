@@ -5,4 +5,8 @@
 * npm install
 * npm run app
 
-___comment___
+*You also need global installed **Webpack**. If not exists execute: `npm install -g webpack webpack-cli`*
+
+Project will run on http://localhost:5000
+
+**Change** `src/Components/App/index.jsx` for view changes
