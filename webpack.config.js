@@ -1,4 +1,4 @@
-var webpack = require("webpack");
+const webpack = require("webpack");
 var htmlWebpackPlugin = require("html-webpack-plugin");
 var resolve = require("path").resolve;
 
